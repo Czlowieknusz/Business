@@ -24,20 +24,20 @@
         <item name="android:adjustViewBounds">true</item>
     </style>
     <style name="main_text">
-        <item name="android:layout_marginTop">16sp</item>
+        <item name="android:layout_marginTop">16dp</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textSize">16sp</item>
-        <item name="android:layout_marginLeft">16sp</item>
-        <item name="android:layout_marginRight">16sp</item>
-        <item name="android:paddingBottom">16sp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
     </style>
     <style name="text">
         <item name="android:layout_centerHorizontal">true</item>
-        <item name="android:layout_width">220sp</item>
-        <item name="android:layout_height">50sp</item>
-        <item name="android:paddingLeft">60sp</item>
-        <item name="android:paddingBottom">16sp</item>
+        <item name="android:layout_width">220dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:paddingLeft">60dp</item>
+        <item name="android:paddingBottom">16dp</item>
     </style>
     <style name="icon">
         <item name="android:height">@dimen/icon_size</item>
