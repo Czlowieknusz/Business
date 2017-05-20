@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business</string>
+    <string name="nazwa_firmy">World of Paper</string>
+    <string name="opis">Got nothing to do? Endlessly bored? Come to visit our bookstore. In our collection we have got over 3000 books which you can buy in very low prices. \n\nWe also borrow books so that one can test them in our nook of silence. It is room prepared specialy for people who tired of big towns noise. If you seek rest, you just found the best place to sit, relax and enjoy good book.</string>
+    <string name="godziny_otwarcia">Monday–Friday: 10–18\nSaturday: 10–16</string>
+    <string name="adres">00–000 City name,\nDluga street 45a</string>
+    <string name="number">234345456</string>
+    <string name="web">www.WorldOfPaper.com</string>
+</resources>

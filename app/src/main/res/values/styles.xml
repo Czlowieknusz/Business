@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="nazwa">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:layout_below">@id/imageView</item>
+    </style>
+    <style name="main_picture">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/ksiazka</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+    <style name="main_text">
+        <item name="android:layout_marginTop">16sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">16sp</item>
+        <item name="android:layout_marginRight">16sp</item>
+        <item name="android:paddingBottom">16sp</item>
+    </style>
+    <style name="text">
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_width">220sp</item>
+        <item name="android:layout_height">50sp</item>
+        <item name="android:paddingLeft">60sp</item>
+        <item name="android:paddingBottom">16sp</item>
+    </style>
+    <style name="icon">
+        <item name="android:height">@dimen/icon_size</item>
+        <item name="android:width">@dimen/icon_size</item>
+    </style>
+</resources>
